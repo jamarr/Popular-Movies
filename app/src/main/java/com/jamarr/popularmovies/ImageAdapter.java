@@ -17,12 +17,26 @@ public class ImageAdapter extends BaseAdapter {
     private Integer[] mThumbIds = {
             R.drawable.sample_0, R.drawable.sample_1,
             R.drawable.sample_2, R.drawable.sample_4,
-            R.drawable.sample_7
+            R.drawable.sample_7, R.drawable.sample_0, R.drawable.sample_1,
+            R.drawable.sample_2, R.drawable.sample_4,
+            R.drawable.sample_7, R.drawable.sample_0, R.drawable.sample_1,
+            R.drawable.sample_2, R.drawable.sample_4,
+            R.drawable.sample_7, R.drawable.sample_0, R.drawable.sample_1,
+            R.drawable.sample_2, R.drawable.sample_4,
+            R.drawable.sample_7, R.drawable.sample_0, R.drawable.sample_1,
+            R.drawable.sample_2, R.drawable.sample_4,
+            R.drawable.sample_7, R.drawable.sample_0, R.drawable.sample_1,
+            R.drawable.sample_2, R.drawable.sample_4,
+            R.drawable.sample_7, R.drawable.sample_0, R.drawable.sample_1,
+            R.drawable.sample_2, R.drawable.sample_4,
+            R.drawable.sample_7, R.drawable.sample_0, R.drawable.sample_1,
+            R.drawable.sample_2, R.drawable.sample_4,
+            R.drawable.sample_7,
 
 
     };
 
-    private ImageAdapter(Context c) {
+    public ImageAdapter(Context c) {
 
         mContext = c;
     }
