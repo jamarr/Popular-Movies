@@ -7,6 +7,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.GridView;
 
+/**
+ * Created by Jamarr Edwards.
+ * This is the first project of the Android nanodegree.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
