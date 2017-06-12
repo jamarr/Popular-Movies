@@ -8,7 +8,8 @@ import android.widget.GridView;
 import android.widget.ImageView;
 
 /**
- * Created by jhome on 6/11/17.
+ *  Created by Jamarr Edwards.
+ *  This is the first project of the Android nanodegree.
  */
 
 public class ImageAdapter extends BaseAdapter {
@@ -21,7 +22,7 @@ public class ImageAdapter extends BaseAdapter {
 
     };
 
-    public ImageAdapter(Context c) {
+    private ImageAdapter(Context c) {
 
         mContext = c;
     }
